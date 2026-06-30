@@ -23,5 +23,5 @@ Egresado en **Análisis y Desarrollo de Software (ADSO)** enfocado en la constru
 ---
 
 ## 📫 Conectemos
-- **LinkedIn:** [Tu nombre en LinkedIn o enlace]
-- **Correo:** [Tu correo electrónico]
+- **LinkedIn:** www.linkedin.com/in/danielandres777
+- **Correo:** danielandres2907@gmail.com
