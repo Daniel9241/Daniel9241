@@ -6,7 +6,9 @@
 ║         Full Stack Developer  ·  Manizales, Colombia ☕      ║
 ╚══════════════════════════════════════════════════════════════╝
 
+
 👨‍💻 About Me
+
 
 public class Daniel extends FullStackDeveloper {
 
@@ -21,8 +23,13 @@ public class Daniel extends FullStackDeveloper {
         return "Apasionado por crear software eficiente, limpio y centrado en el usuario.";
     }
 }
+
 "Enfocado en resolver problemas complejos a través de código elegante, automatizaciones con IA y buenas prácticas."
 
+
+
+
+📊 GitHub Stats (Mis Estadísticas)
 🛠️ Tech Stack & Tools
 Lenguajes y Backend
 Automatización e IA
@@ -30,6 +37,11 @@ Frontend
 IDEs y Herramientas
 🚀 Featured Projects
 🤖 Synthetix Automation - Agencia especializada en el desarrollo de soluciones de Inteligencia Artificial y optimización de procesos. Diseñamos e implementamos flujos de automatización avanzados y arquitecturas de backend robustas conectando APIs con n8n para transformar operaciones comerciales.
+
+
 📫 Connect with me
 LinkedIn: www.linkedin.com/in/danielandres777
+
+
 Email: danielandres2907@gmail.com
+
